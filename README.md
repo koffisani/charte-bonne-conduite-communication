@@ -9,4 +9,4 @@ Il s'agit d'une demande d'audience que ce jeune adressait à cet entrepreneur K�
 
 Ceci est un exemple de ce je rencontre tous les jours quand je discute avec des jeunes sur WhatsApp. Bien que tous les téléphones supportant cette application sont dotés d'un intelligent moteur de suggestion, d'auto-complétion et d'auto-correction, des gens décident de rendre bête leur smartphone. Il faut noter que les développeurs ont laissé aux téléphones d'apprendre de l'utilisateur. Ce qui fait qu'ils perdent avec le temps toute habileté à suggérer de bonnes corrections.
 
-Dans ce projet, je définis la charte de communication en vigueur pour tous ceux veulent communiquer avec moi sur les réseaux sociaux, surtout pour les discussions instantanées. 
+Dans ce projet, je définis [la charte de communication](charte.md) en vigueur pour tous ceux veulent communiquer avec moi sur les réseaux sociaux, surtout pour les discussions instantanées. 
